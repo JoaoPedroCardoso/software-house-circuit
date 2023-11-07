@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" filepath="$PROJECT_DIR$/api-gateway-server/api-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividadeFeignCircuit.iml" filepath="$PROJECT_DIR$/.idea/atividadeFeignCircuit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/company-calculations/company-calculations.iml" filepath="$PROJECT_DIR$/company-calculations/company-calculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logpool/logpool.iml" filepath="$PROJECT_DIR$/logpool/logpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/software-house/software-house.iml" filepath="$PROJECT_DIR$/software-house/software-house.iml" />
+    </modules>
+  </component>
+</project>
